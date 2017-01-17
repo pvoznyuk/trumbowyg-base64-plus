@@ -1,0 +1,22 @@
+{
+  "name": "trumbowyg-base64-plus",
+  "homepage": "https://github.com/pvoznyuk/trumbowyg-base64-plus",
+  "authors": [
+    "Pavlo Vozniuk <pavlo.voznyuk@gmail.com>"
+  ],
+  "description": "Extended plugin for base64 inserting image for Trumbowyg wysiwyg",
+  "main": "trumbowyg.base64.js",
+  "keywords": [
+    "trumbowyg",
+    "base64",
+    "images"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
