@@ -97,8 +97,8 @@
 
                             $('input[type=file]').on('change', function (e) {
                                 file = e.target.files[0];
-                                if(file.size >= 3145728){
-                                  alert("The image has gone beyond 3 MB!");
+                                if(file.size >= 2097152){
+                                  alert("The image has gone beyond 2 MB!");
                                   $('button[type=submit]').addClass('disabled');
                                   $('button[type=submit]').prop('disabled', true);
                                 }else{
