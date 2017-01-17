@@ -7,6 +7,9 @@
   ],
   "description": "Extended plugin for base64 inserting image for Trumbowyg wysiwyg",
   "main": "trumbowyg.base64.js",
+  "dependencies": {
+    "trumbowyg": "~2.4.2"
+  },
   "keywords": [
     "trumbowyg",
     "base64",
