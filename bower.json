@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/pvoznyuk/trumbowyg-base64-plus",
   "authors": [
-    "Pavlo Vozniuk <pavlo.voznyuk@gmail.com>"
+    "Pavlo Vozniuk <antipsih@ukr.net>"
   ],
   "description": "Extended plugin for base64 inserting image for Trumbowyg wysiwyg",
   "main": "trumbowyg.base64.js",
