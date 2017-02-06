@@ -101,6 +101,7 @@
                                   alert("The image has gone beyond 2 MB!");
                                   $('button[type=submit]').addClass('disabled');
                                   $('button[type=submit]').prop('disabled', true);
+                                  $(this).val("");
                                 }else{
                                   $('button[type=submit]').removeClass('disabled');
                                   $('button[type=submit]').prop('disabled', false);
